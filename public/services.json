@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Weight loss",
+        "serviceImg": "https://i.ibb.co/vLM8PZ2/Closeup-of-weightlift-workout-at-the-gym-with-barbell-Man-wearing-sportswear-clothes.jpg",
+        "fees": "SEK 500",
+        "instructor": "Elin",
+        "email": "elin@gmail.com",
+        "cell": 15208391,
+        "img": ""
+    },
+    {
+        "id": 2,
+        "name": "Diet",
+        "serviceImg": "https://i.ibb.co/zfQFr0H/Healthy-Menu-Recipe-Food-Diet.jpg",
+        "fees": "SEK 500",
+        "instructor": "Hannes",
+        "email": "elin@gmail.com",
+        "cell": 15208392,
+        "img": ""
+    },
+    {
+        "id": 3,
+        "name": " Stress Recovery",
+        "serviceImg": "https://i.ibb.co/mHWcyMP/Stressed-man-frustrated-with-electronic-devices-in-office.jpg",
+        "fees": "SEK 500",
+        "instructor": "Paul",
+        "email": "elin@gmail.com",
+        "cell": 15208393,
+        "img": ""
+    },
+    {
+        "id": 4,
+        "name": "Circle training",
+        "serviceImg": "https://i.ibb.co/gw3Jq0S/Balls-for-different-team-sports-flat-vector-illustrations-set-Equipment-for-different-games-football.jpg",
+        "fees": "SEK 500",
+        "instructor": "Sunan",
+        "email": "elin@gmail.com",
+        "cell": 15208394,
+        "img": ""
+    },
+    {
+        "id": 5,
+        "name": "Personal trainer",
+        "serviceImg": "https://i.ibb.co/gMb91vt/5.jpg",
+        "fees": "SEK 500",
+        "instructor": "Arif",
+        "email": "elin@gmail.com",
+        "cell": 15208395,
+        "img": ""
+    },
+    {
+        "id": 6,
+        "name": "PT Small group",
+        "serviceImg": "https://i.ibb.co/fM9PcMN/Pilates-group-working-out-in-a-gym.jpg",
+        "fees": "SEK 500",
+        "instructor": "Azizul Haque",
+        "email": "elin@gmail.com",
+        "cell": 15208396,
+        "img": ""
+    },
+    {
+        "id": 7,
+        "name": "Group training outdoors",
+        "serviceImg": "https://i.ibb.co/GxrqGB9/Sporty-people-running-marathon-in-park-vector-illustration-Jogging-competition-race-Sport-concept-De.jpg",
+        "fees": "SEK 500",
+        "instructor": "Ruhul",
+        "email": "elin@gmail.com",
+        "cell": 15208397,
+        "img": ""
+    },
+    {
+        "id": 8,
+        "name": "Fitness support",
+        "serviceImg": "https://i.ibb.co/P5k8jbL/Set-of-multiethnic-people-with-weights-Fitness-characters-with-heavy-equipment-Vector-illustration-c.jpg",
+        "fees": "SEK 500",
+        "instructor": "Elin",
+        "email": "elin@gmail.com",
+        "cell": 15208398,
+        "img": ""
+    },
+    {
+        "id": 9,
+        "name": "Swimming",
+        "serviceImg": "https://i.ibb.co/J5r6Grr/9.jpg",
+        "fees": "SEK 500",
+        "instructor": "Jennah",
+        "email": "elin@gmail.com",
+        "cell": 15208399,
+        "img": ""
+    }
+]
